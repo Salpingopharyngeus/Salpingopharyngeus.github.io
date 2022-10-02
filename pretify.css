@@ -1,0 +1,33 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    width: 100%;
+    padding-left: 30px;
+}
+
+.column-skills {
+    float: left;
+    width: 50%;
+}
+
+.section-header {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.relevant-coursework {
+    text-indent: 50px;
+    overflow-wrap: break-word;
+}
+
+.education {
+    font-size: 12px;
+    line-height: 2px;
+}
+
+li{
+    text-indent: 0px;
+}
